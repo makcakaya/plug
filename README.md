@@ -1,2 +1,2 @@
-# plug
-A bad event channeling library
+# Plug
+A bad event channeling library.
